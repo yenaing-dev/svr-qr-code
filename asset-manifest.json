@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/svr-qr-code/static/css/main.db31fede.css",
+    "main.js": "/svr-qr-code/static/js/main.1a0bbf3e.js",
+    "static/js/787.1dab2e5b.chunk.js": "/svr-qr-code/static/js/787.1dab2e5b.chunk.js",
+    "index.html": "/svr-qr-code/index.html",
+    "main.db31fede.css.map": "/svr-qr-code/static/css/main.db31fede.css.map",
+    "main.1a0bbf3e.js.map": "/svr-qr-code/static/js/main.1a0bbf3e.js.map",
+    "787.1dab2e5b.chunk.js.map": "/svr-qr-code/static/js/787.1dab2e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db31fede.css",
+    "static/js/main.1a0bbf3e.js"
+  ]
+}
